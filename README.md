@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylinu
-- 👀 I’m interested in  computer communication and economy investing.
+- 👀 I’m interested in  computer communication business and economy investing.
 - 🌱 I’m currently learning  AI and Finance.
 - 💞️ I’m looking to collaborate on github and gitee.
 - 📫 How to reach me ?
